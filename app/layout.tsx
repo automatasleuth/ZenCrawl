@@ -1,5 +1,5 @@
 import type React from "react"
-import "@/app/globals.css"
+import "@/styles/globals.css"
 import { Inter, Space_Grotesk } from "next/font/google"
 import { ThemeProvider } from "@/components/theme-provider"
 import ParticleBackground from "@/components/particle-background"
